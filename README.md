@@ -18,8 +18,7 @@ If you find DeRPN useful to your research, please consider citing our paper as f
 }
 ```
 ## Main Results
-
-**Note**: The reimplemented results are different from those presented  in the paper for different training settings, but the conclusions are still consistent. For example, this code doesn't use multi-scale training which should boost the results for both DeRPN and RPN.
+**Note**: The reimplemented results are slightly different from those presented  in the paper for different training settings, but the conclusions are still consistent. For example, this code doesn't use multi-scale training which should boost the results for both DeRPN and RPN.
 
 ### COCO-Text
 
