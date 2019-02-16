@@ -121,7 +121,8 @@ test data: COCO 2017 test/val
     $DeRPN_ROOT/data/coco_text/images/train2014
     $DeRPN_ROOT/data/coco_text/images/val2014
     $DeRPN_ROOT/data/coco_text/annotations  
-    # train2014, val2014, and annotations are symlinks from /pth_to_coco2014/train2014, /pth_to_coco2014/val2014 and /pth_to_coco2014/annotations2014/, respectively.
+    # train2014, val2014, and annotations are symlinks from /pth_to_coco2014/train2014, 
+    /pth_to_coco2014/val2014 and /pth_to_coco2014/annotations2014/, respectively.
     ```
 4. For COCO, the folder structure is as follow:
 
