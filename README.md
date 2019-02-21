@@ -2,7 +2,7 @@
 DeRPN is a novel region proposal network which concentrates on improving the adaptivity of current detectors. 
 The paper is available [here](https://arxiv.org/abs/1811.06700).
 
-<div align="center"><img src="https://github.com/HCIILAB/DeRPN/blob/master/schema.png" width="604" ></div>
+<div align="center"><img src="https://github.com/HCIILAB/DeRPN/blob/master/schema.png" width="600" ></div>
 
 ## Recent Update
 **·** Jan. 25, 2019: The code is released.
