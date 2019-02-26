@@ -159,4 +159,4 @@ cd $DeRPN_ROOT
 ```
 
 ## Copyright
-This code is free to the academic community for research purpose only.
+This code is free to the academic community for research purpose only. For commercial purpose usage, please contact Dr. Lianwen Jin: lianwen.jin@gmail.com.
