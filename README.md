@@ -150,7 +150,7 @@ Please download the ImageNet pretrained models ([VGG16](https://pan.baidu.com/s/
 ```Shell
 $DeRPN_ROOT/data/imagenet_models
 ```
-We also provide the DeRPN pretrained models here(https://pan.baidu.com/s/141Dy0OiXLMau-XLdEkHdIA) (password: fsd8).
+We also provide the DeRPN pretrained models [here](https://pan.baidu.com/s/141Dy0OiXLMau-XLdEkHdIA) (password: fsd8).
 
 
 ## Usage
