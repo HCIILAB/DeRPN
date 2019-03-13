@@ -5,6 +5,7 @@ The paper is available [here](https://arxiv.org/abs/1811.06700).
 <div align="center"><img src="https://github.com/HCIILAB/DeRPN/blob/master/schema.png" width="600" ></div>
 
 ## Recent Update
+**·** Mar. 13, 2019: The DeRPN pretrained models are added.
 **·** Jan. 25, 2019: The code is released.
 
 ## Contact Us
@@ -148,6 +149,7 @@ Please download the ImageNet pretrained models ([VGG16](https://pan.baidu.com/s/
 ```Shell
 $DeRPN_ROOT/data/imagenet_models
 ```
+We also provide the DeRPN pretrained models here(https://pan.baidu.com/s/141Dy0OiXLMau-XLdEkHdIA) (password: fsd8).
 
 
 ## Usage
