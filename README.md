@@ -6,6 +6,7 @@ The paper is available [here](https://arxiv.org/abs/1811.06700).
 
 ## Recent Update
 **·** Mar. 13, 2019: The DeRPN pretrained models are added.
+
 **·** Jan. 25, 2019: The code is released.
 
 ## Contact Us
